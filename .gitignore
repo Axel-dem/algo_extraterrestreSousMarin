@@ -1,0 +1,14 @@
+# houdini 20.5
+
+abc/*
+audio/*
+comp/*
+desk/*
+flip/*
+geo/*
+hda/*
+render/*
+
+sim/*
+tex/*
+video/*
