@@ -1,7 +1,8 @@
-# houdini 20.5
+# houdini 21.0
 
 abc/*
 audio/*
+backup/*
 comp/*
 desk/*
 flip/*
