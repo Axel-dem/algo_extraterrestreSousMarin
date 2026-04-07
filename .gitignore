@@ -7,7 +7,7 @@ comp/*
 desk/*
 flip/*
 geo/*
-hda/*
+#hda/*
 render/*
 
 sim/*
